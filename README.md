@@ -1,2 +1,2 @@
 # IBM-Data-Science-Course
-MAterials for my Data Science course
+Materials for my Data Science course
